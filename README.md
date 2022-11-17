@@ -10,7 +10,7 @@ Wszystkich zainteresowanych zapraszam do kontaktu oraz na  [DISCORD](https://dis
 
 ## Narzędzia webowe
 - [Python Online Compiler](https://www.programiz.com/python-programming/online-compiler).
-- [Python Tutor - krok po kroku](https://pythontutor.com/).
+- [Python Tutor - krok po kroku](https://pythontutor.com/python-debugger.html#mode=edit).
 
 
 ## Lekcje
