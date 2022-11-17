@@ -11,6 +11,6 @@ Wszystkich zainteresowanych zapraszam do kontaktu oraz na  [DISCORD](https://dis
 
 #Lekcje
 
- [Lekcja 0 - wstęp do języka](https://github.com/tomekcrm/programming-for-institute-of-management-and-quality---basics-of-python/blob/main/lekcja0.md).
+ - [Lekcja 0 - wstęp do języka](https://github.com/tomekcrm/programming-for-institute-of-management-and-quality---basics-of-python/blob/main/lekcja0.md).
 
 
