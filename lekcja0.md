@@ -1,12 +1,7 @@
 
 # Lekcja 0
 
-Podstawowe założenia języka - głownie forma wyjładowa z elementami ćwiczeń.
-Materiał ma służyć do przypomnienia pewnych kwestii przez studentów.
-
-Moi studenci to studenci nauk społecznych, w związku z czym nietechniczny język jest wręcz koniecznością - przepraszam wszystkich urażonych.
-
-Więkość koncepcji będzie dosłownie "liźnięta", jednak mam nadzieję, że da solidne podstawy do daleszego rozwoju.
+Podstawowe założenia języka - głownie forma wykładowa z elementami mikro ćwiczeń.
 
 
 ## Zen of python
