@@ -9,7 +9,7 @@ Więkość koncepcji będzie dosłownie "liźnięta", jednak mam nadzieję, że 
 Wszystkich zainteresowanych zapraszam do kontaktu oraz na  [DISCORD](https://discord.gg/m9MWRaGQJA).
 
 
-#Lekcje
+## Lekcje
 
  - [Lekcja 0 - wstęp do języka](https://github.com/tomekcrm/programming-for-institute-of-management-and-quality---basics-of-python/blob/main/lekcja0.md).
 
