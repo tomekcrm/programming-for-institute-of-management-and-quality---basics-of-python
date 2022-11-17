@@ -1,2 +1,0 @@
-# programming-for-institute-of-management-and-quality---basics-of-python
-An original programming course for students from the Institute of Management and Quality at the Siedlce University of Natural Sciences and Humanities - its task is to understand and work through the basics of python, in order to use it for webdevelopment (e-commerce), data analysis and automation in the later learning process
