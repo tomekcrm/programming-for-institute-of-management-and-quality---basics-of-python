@@ -107,8 +107,10 @@ Obecnie dla nas najważniejsze to:
 - **int - integer →** liczba całkowita, bez przecinków, program nam to zaokrągla – tego typu zmiennej, używamy gdy chcemy wykonać na przykład jakieś równanie matematyczne 1+1
 - **dict - dictionary →** słownik, czyli połączenie klucza z jego wartością, słownik zawsze jest zapisywany w formie `{klucz1 : wartość, klucz2 : wartość2}`
     -   Za przykład niech nam posłuży imię oraz numer albumu, przypisane do tej zmiennej (wsadzone do pudełka) o nazwie studenci:
-        -  studenci = `{“Michał” : 22121, “Andrzej” : 15521, “Ancymon” : 91211}`
-    -  Taki słownik może być naprawdę duży, więc aby znaleźć numer albumu pana Ancymona wystarczy wpisać `studenci[“Ancymon”]`
+        -  ```python
+studenci = {“Michał” : 22121, “Andrzej” : 15521, “Ancymon” : 91211}```
+    -  Taki słownik może być naprawdę duży, więc aby znaleźć numer albumu pana Ancymona wystarczy wpisać 
+    ```python studenci[“Ancymon”]```
 
     
 ## Warunki
