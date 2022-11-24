@@ -41,7 +41,7 @@ Poprawny format takiego f-stringa to
 ```python
 nazwa_zmiennej_1 = "coś tam"
 nazwa_zmiennej_2 = "coś tam ale drugie"
-f"TREŚĆ {nazwa_zmiennej_1} {nazwa_zmiennej_2}" 
+fstring = f"TREŚĆ {nazwa_zmiennej_1} {nazwa_zmiennej_2}" 
 
 #gdy chcemy to wyprintować to należy umieścić wewnątrz print()
 
