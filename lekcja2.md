@@ -130,8 +130,8 @@ for student in studenci:
 Właściwie na tym etapie granice stawia już czysta fantazja.
 Możemy więc przejść do zadań.
 
-#Zadania
-###Zadanie 1 - studenci
+# Zadania
+### Zadanie 1 - studenci
 ```python
 s18112 = ["Andrzej", "Zalewski", "Siedlce"]
 s21542 = ["Grażyna", "Staszewski", "Mińsk Mazowiecki"]
@@ -145,7 +145,7 @@ s91221 = ["Monika", "Kaszewska", "Siedlce"]
 #TODO: Utwórz program, który w podanej liście studentów wyświetla dane studenta po podaniu mu numeru albumu
 
 ```
-###Zadanie 2 - Tiara przydziału
+### Zadanie 2 - Tiara przydziału
 ```python
 #Utwórz program, który pyta użytkownika o imię, następnie losuje dla niego, do którego domu zostaje przypisany. Całość można okrasić odpowiednimi komentarzami tiary.
 
