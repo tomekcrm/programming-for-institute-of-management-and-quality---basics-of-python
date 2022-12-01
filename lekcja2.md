@@ -167,3 +167,5 @@ Hufflepuff = ["Hufflepuff"]
 
 
 ```
+
+[Przejdź do następnej lekcji](#)
