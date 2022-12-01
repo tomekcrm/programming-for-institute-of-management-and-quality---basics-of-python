@@ -17,4 +17,4 @@ Wszystkich zainteresowanych zapraszam do kontaktu oraz na  [DISCORD](https://dis
 
  - [Lekcja 0 - wstęp do języka](https://github.com/tomekcrm/programming-for-institute-of-management-and-quality---basics-of-python/blob/main/lekcja0.md).
  - [Lekcja 1 - stringi]( https://github.com/tomekcrm/python-basics-for-WS-students/blob/main/lekcja1.md).
-
+ - [Lekcja 2 - listy](https://github.com/tomekcrm/python-basics-for-WS-students/blob/main/lekcja2.md)
