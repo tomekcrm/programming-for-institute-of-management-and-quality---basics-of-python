@@ -1,6 +1,6 @@
-### Listy 
+# Listy 
 
-# Czym są listy
+### Czym są listy
 Lista pomaga nam w ustrykturyzowaniu oraz opanowaniu naszych danych.
 Listy zapisujemy w kwadratowych nawiasach [], wewnątrz zapisująć jej elementy oddzielająć je przecinkiem. Na przykład
 ```python
