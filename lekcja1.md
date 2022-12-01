@@ -323,4 +323,4 @@ a następnie sprawdza czy słowo występuje w ciągu i ewentualnie ile razy się
 ```
 
 
-[Przejdź do następnej lekcji](#)
+[Przejdź do następnej lekcji](https://github.com/tomekcrm/python-basics-for-WS-students/blob/main/lekcja2.md)
