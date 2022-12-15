@@ -168,4 +168,6 @@ Hufflepuff = ["Hufflepuff"]
 
 ```
 
-[Przejdź do następnej lekcji](#)
+
+
+[Przejdź do następnej lekcji](https://github.com/tomekcrm/python-basics-for-WS-students/blob/main/lekcja3.md)
