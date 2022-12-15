@@ -6,7 +6,6 @@ Studenci nauk społecznych nie są ściśle powiązani z Computer Science, w zwi
 
 Więkość koncepcji będzie dosłownie "liźnięta", jednak mam nadzieję, że da solidne podstawy do daleszego rozwoju.
 
-Wszystkich zainteresowanych zapraszam do kontaktu oraz na  [DISCORD](https://discord.gg/m9MWRaGQJA).
 
 ## Narzędzia webowe
 - [Python Online Compiler](https://www.programiz.com/python-programming/online-compiler).
