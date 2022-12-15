@@ -28,7 +28,7 @@ W przykładach będziemy używali słownika z poprzedniego rozdziału
 ```python3
 slownik = {'klucz1': 'tekst', 'klucz2': 123, 'klucz3': ['1elementlisty', '2elementlisty', '3elementlisty']}
 ```
-####dodawanie do słownika
+#### dodawanie do słownika
 W celu dodania nowego zestawu klucz : wartość , należy do zmiennej zawierającej słownik dopisać ["nowy_klucz"] = "nasza nowa wartość"
 
 ```python3
@@ -83,7 +83,7 @@ Użycie przedstawionych metod prezentuję poniżej.
 
 ```python3
 slownik.items()
-slownik.keys.()
+slownik.keys()
 slownik.values()
 ```
 
