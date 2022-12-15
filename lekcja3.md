@@ -1,6 +1,6 @@
 # Słowniki
 
-###Czym są i jak działają słowniki
+### Czym są i jak działają słowniki
 Już z samej nazwy możemy wywnioskować, że słownik zawiera jakieś określenie oraz jego wytłumaczenie. 
 Nieinaczej jest w pythonie - słownik zawiera zestaw klucza i wartości
 
@@ -23,7 +23,7 @@ program zwróci nam wtedy
 ```python3
 123
 ```
-###Co możemy z nimi zrobić?
+### Co możemy z nimi zrobić?
 W przykładach będziemy używali słownika z poprzedniego rozdziału
 ```python3
 slownik = {'klucz1': 'tekst', 'klucz2': 123, 'klucz3': ['1elementlisty', '2elementlisty', '3elementlisty']}
@@ -39,7 +39,7 @@ po dodaniu, nasz słownik powinien wyglądać tak:
 ```python3
 slownik = {'klucz1': 'tekst', 'klucz2': 123, 'klucz3': ['1elementlisty', '2elementlisty', '3elementlisty'], 'klucz4' : "jakakolwiek potrzebna nam wartość"}
 ```
-####modyfikowanie wartości słownika
+#### Modyfikowanie wartości słownika
 
 Aby zmodyfikować wartość klucza, należy wywołać go jak poprzednio i ustawić nową, wartość !WAŻNE! stara wartość zostanie utracona
 
@@ -62,7 +62,7 @@ aby usunąć wszystkie elementy słownika i całkowicie go wyczyścić z kluczy 
 slownik.clear()
 ```
 
-####Wbudowane metody słownika
+#### Wbudowane metody słownika
 Słownika posiada liczne metody, które pomagają nam z nim pracować.
 Użyjemy znanego już wam słownika.
 
@@ -98,8 +98,8 @@ for key, value in slownik.items():
 	print("-----")
 ```
 
-##Zadania
-###Zadanie 1 
+## Zadania
+### Zadanie 1 
 
 ```python3
 #Działamy na podanym niżej słowniku zawierającym jako klucz kierunki studiów i jako wartość, liczbę uczęszczających studentów
@@ -111,7 +111,7 @@ slownik = {"Zarządzanie": 133, "Administracja": 87, 'Bezpieczeństwo' : 142}
 #ToDo: Na kierunku zarządzanie, ustawiamy wartości jako słownik z ilościami na konkretnych specjalnościach MŚP -> 33, Rachunkowość -> 45, Logistyka -> 55
 ```
 
-###Zadanie 2
+### Zadanie 2
 
 ```python3
 #Działamy na podanym niżej słowniku, zawiera on imiona dzieci oraz listę punktów za złe oraz dobre uczynki.
