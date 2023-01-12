@@ -4,7 +4,7 @@ Materiał ma służyć do przypomnienia pewnych kwestii przez studentów instytu
 
 Studenci nauk społecznych nie są ściśle powiązani z Computer Science, w związku z czym nietechniczny język jest wręcz koniecznością - przepraszam wszystkich urażonych.
 
-Więkość koncepcji będzie dosłownie "liźnięta", jednak mam nadzieję, że da solidne podstawy do daleszego rozwoju.
+Więkość koncepcji będzie dosłownie "liźnięta", jednak mam nadzieję, że da solidne podstawy do dalszego rozwoju.
 
 
 ## Narzędzia webowe
